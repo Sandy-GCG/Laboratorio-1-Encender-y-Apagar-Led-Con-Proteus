@@ -1,0 +1,35 @@
+[PROJECT]
+Target=Laboratorio 1 - Encender y Apagar Led - Proteus.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.025
+Compiler=PCM
+CCSVersion=5.025
+[Target Data]
+FileList=Laboratorio 1 - Encender y Apagar Led - Proteus.c
+[Directories]
+Include=
+[C:\Users\Sandy González\OneDrive - Universidad Mariano Gálvez\Escritorio\Universidad\Semestre 8\Arquitectura de Computadoras II\Laboratorio 1 - Encender y Apagar Led - Proteus]
+Type=4
+[mru-list]
+1=Laboratorio 1 - Encender y Apagar Led - Proteus.c
+
+[ProjectLog]
+Days=1
+D1=31-07-2022
+D1_L=7
+D1_L1=[70100]Project Opened.
+D1_L2=[70121]Started Editing.
+D1_L3=[70421]Stopped Editing.
+D1_L4=[70942]Started Editing.
+D1_L5=[71244]Stopped Editing.
+D1_L6=[75299]Project Opened.
+D1_L7=[75302]Project Closed.
+
+[Opened Files]
+1=Laboratorio 1 - Encender y Apagar Led - Proteus.c
+2=
+[Laboratorio 1 - Encender y Apagar Led - Proteus.c]
+Type=4
+[Units]
+Count=1
+1=Laboratorio 1 - Encender y Apagar Led - Proteus (main)

@@ -1,0 +1,11 @@
+#include <Laboratorio 1 - Encender y Apagar Led - Proteus.h>
+
+void main()
+{
+
+	while(TRUE)
+	{
+		//TODO: User Code
+	}
+
+}

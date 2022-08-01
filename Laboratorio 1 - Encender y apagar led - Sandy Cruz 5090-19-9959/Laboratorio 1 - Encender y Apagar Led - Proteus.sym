@@ -1,0 +1,59 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004-005 @WRITE_PROGRAM_MEMORY8.P2
+008     PSP_DATA
+015     CCP_1_LOW
+015     CCP_1
+016     CCP_1_HIGH
+01B     CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+021     @delay_ms1.P1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+09C.6   C1OUT
+09C.7   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000004  @delay_ms1
+000019  @cinit1
+000019  main
+000023  @cinit2
+
+Project Directory:
+    C:\Users\Sandy González\OneDrive - Universidad Mariano Gálvez\Escritorio\Universidad\Semestre 8\Arquitectura de Computadoras II\
+
+Project Files:
+    Laboratorio 1 - Encender y Apagar Led - Proteus.c       [31-jul.-22 19:42  CRC=D872A938]
+    Laboratorio 1 - Encender y Apagar Led - Proteus.h       [31-jul.-22 19:28  CRC=CF12E969]
+    ..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16F877A.h [18-abr.-14 16:56  CRC=4F277C97]
+
+Source signature=45D48BCF
+
+Units:
+    Laboratorio 1 - Encender y Apagar Led - Proteus (main)
+
+Compiler Settings:
+    Processor:      PIC16F877A
+    Pointer Size:   16
+    ADC Range:      0-65535
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   Laboratorio 1 - Encender y Apagar Led - Proteus.xsym
+    Errors:      Laboratorio 1 - Encender y Apagar Led - Proteus.err
+    Ext Symbols: Laboratorio 1 - Encender y Apagar Led - Proteus.esym
+    INHX8:       Laboratorio 1 - Encender y Apagar Led - Proteus.hex
+    Symbols:     Laboratorio 1 - Encender y Apagar Led - Proteus.sym
+    List:        Laboratorio 1 - Encender y Apagar Led - Proteus.lst
+    Debug/COFF:  Laboratorio 1 - Encender y Apagar Led - Proteus.cof
+    Project:     Laboratorio 1 - Encender y Apagar Led - Proteus.ccspjt
+    Call Tree:   Laboratorio 1 - Encender y Apagar Led - Proteus.tre
+    Statistics:  Laboratorio 1 - Encender y Apagar Led - Proteus.STA
